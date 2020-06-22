@@ -4,4 +4,4 @@ En este repositorio se adjuntan los 2 parciales realizados en el curso Aprendiza
 
 Ambos parciales utilizan un conjunto de datos determinado con el cual se entrena el modelo con múltiples métodos para la clasificación de estos datos.
 
-Estos programas fueron realizados en Python.
+Estos programas fueron realizados en Python utilizando Jupyter.
